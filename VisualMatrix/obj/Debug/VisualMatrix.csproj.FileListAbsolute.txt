@@ -1,0 +1,9 @@
+C:\Users\maels\Documents\Visual Studio 2017\Projects\VisualMatrix\VisualMatrix\bin\Debug\VisualMatrix.exe
+C:\Users\maels\Documents\Visual Studio 2017\Projects\VisualMatrix\VisualMatrix\bin\Debug\VisualMatrix.pdb
+C:\Users\maels\Documents\Visual Studio 2017\Projects\VisualMatrix\VisualMatrix\obj\Debug\VisualMatrix.csprojResolveAssemblyReference.cache
+C:\Users\maels\Documents\Visual Studio 2017\Projects\VisualMatrix\VisualMatrix\obj\Debug\VisualMatrix.Form1.resources
+C:\Users\maels\Documents\Visual Studio 2017\Projects\VisualMatrix\VisualMatrix\obj\Debug\VisualMatrix.Properties.Resources.resources
+C:\Users\maels\Documents\Visual Studio 2017\Projects\VisualMatrix\VisualMatrix\obj\Debug\VisualMatrix.csproj.GenerateResource.Cache
+C:\Users\maels\Documents\Visual Studio 2017\Projects\VisualMatrix\VisualMatrix\obj\Debug\VisualMatrix.csproj.CoreCompileInputs.cache
+C:\Users\maels\Documents\Visual Studio 2017\Projects\VisualMatrix\VisualMatrix\obj\Debug\VisualMatrix.exe
+C:\Users\maels\Documents\Visual Studio 2017\Projects\VisualMatrix\VisualMatrix\obj\Debug\VisualMatrix.pdb

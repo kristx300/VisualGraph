@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisualGraph", "VisualMatrix\VisualGraph.csproj", "{8EE70DB3-D7D7-4374-8569-38A3CF8B55E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenerateMatrix", "GenerateMatrix\GenerateMatrix.csproj", "{B299E94E-C4F7-44FA-A77E-533089E5AFE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EE70DB3-D7D7-4374-8569-38A3CF8B55E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EE70DB3-D7D7-4374-8569-38A3CF8B55E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EE70DB3-D7D7-4374-8569-38A3CF8B55E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EE70DB3-D7D7-4374-8569-38A3CF8B55E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B299E94E-C4F7-44FA-A77E-533089E5AFE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B299E94E-C4F7-44FA-A77E-533089E5AFE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B299E94E-C4F7-44FA-A77E-533089E5AFE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B299E94E-C4F7-44FA-A77E-533089E5AFE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB7A2E5F-A01E-4A7F-9C32-E9A9F938FA84}
+	EndGlobalSection
+EndGlobal

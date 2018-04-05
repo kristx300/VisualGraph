@@ -1,0 +1,6 @@
+C:\Users\maels\Documents\Visual Studio 2017\Projects\VisualMatrix\GenerateMatrix\bin\Debug\GenerateMatrix.exe
+C:\Users\maels\Documents\Visual Studio 2017\Projects\VisualMatrix\GenerateMatrix\bin\Debug\GenerateMatrix.pdb
+C:\Users\maels\Documents\Visual Studio 2017\Projects\VisualMatrix\GenerateMatrix\obj\Debug\GenerateMatrix.csproj.CoreCompileInputs.cache
+C:\Users\maels\Documents\Visual Studio 2017\Projects\VisualMatrix\GenerateMatrix\obj\Debug\GenerateMatrix.exe
+C:\Users\maels\Documents\Visual Studio 2017\Projects\VisualMatrix\GenerateMatrix\obj\Debug\GenerateMatrix.pdb
+C:\Users\maels\Documents\Visual Studio 2017\Projects\VisualMatrix\GenerateMatrix\obj\Debug\GenerateMatrix.csprojResolveAssemblyReference.cache

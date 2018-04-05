@@ -1,0 +1,9 @@
+C:\Users\maels\Documents\Visual Studio 2017\Projects\VisualMatrix\VisualMatrix\obj\Debug\VisualGraph.csprojResolveAssemblyReference.cache
+C:\Users\maels\Documents\Visual Studio 2017\Projects\VisualMatrix\VisualMatrix\obj\Debug\VisualGraph.MainForm.resources
+C:\Users\maels\Documents\Visual Studio 2017\Projects\VisualMatrix\VisualMatrix\obj\Debug\VisualGraph.csproj.GenerateResource.Cache
+C:\Users\maels\Documents\Visual Studio 2017\Projects\VisualMatrix\VisualMatrix\obj\Debug\VisualGraph.csproj.CoreCompileInputs.cache
+C:\Users\maels\Documents\Visual Studio 2017\Projects\VisualMatrix\VisualMatrix\bin\Debug\VisualGraph.exe
+C:\Users\maels\Documents\Visual Studio 2017\Projects\VisualMatrix\VisualMatrix\bin\Debug\VisualGraph.pdb
+C:\Users\maels\Documents\Visual Studio 2017\Projects\VisualMatrix\VisualMatrix\obj\Debug\VisualGraph.Properties.Resources.resources
+C:\Users\maels\Documents\Visual Studio 2017\Projects\VisualMatrix\VisualMatrix\obj\Debug\VisualGraph.exe
+C:\Users\maels\Documents\Visual Studio 2017\Projects\VisualMatrix\VisualMatrix\obj\Debug\VisualGraph.pdb
